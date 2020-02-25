@@ -1,0 +1,16 @@
+function=KeyShift,value=+4,userfunction=UserKeyShift,uservalue=+4
+function=KeyShift,value=+5,userfunction=UserKeyShift,uservalue=+5
+function=KeyShift,value=+6,userfunction=UserKeyShift,uservalue=+6
+function=KeyShift,value=+7,userfunction=UserKeyShift,uservalue=+7
+function=KeyShift,value=0,userfunction=UserKeyShift,uservalue=0
+function=KeyShift,value=+1,userfunction=UserKeyShift,uservalue=+1
+function=KeyShift,value=+2,userfunction=UserKeyShift,uservalue=+2
+function=KeyShift,value=+3,userfunction=UserKeyShift,uservalue=+3
+function=KeyShift,value=-4,userfunction=UserKeyShift,uservalue=-4
+function=KeyShift,value=-3,userfunction=UserKeyShift,uservalue=-3
+function=KeyShift,value=-2,userfunction=UserKeyShift,uservalue=-2
+function=KeyShift,value=-1,userfunction=UserKeyShift,uservalue=-1
+function=KeyShift,value=-8,userfunction=UserKeyShift,uservalue=-8
+function=KeyShift,value=-7,userfunction=UserKeyShift,uservalue=-7
+function=KeyShift,value=-6,userfunction=UserKeyShift,uservalue=-6
+function=KeyShift,value=-5,userfunction=UserKeyShift,uservalue=-5

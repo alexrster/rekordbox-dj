@@ -1,0 +1,16 @@
+function=UserBeatJump,value=-1/2
+function=UserBeatJump,value=+1/2
+function=UserKeyShift,value=SEMITONE UP
+function=UserKeyShift,value=SEMITONE DOWN
+function=PadFxCombination,value=1
+function=PadFxCombination,value=3
+function=UserKeyShift,value=KEY SYNC
+function=UserKeyShift,value=KEY RESET
+function=HotCue,value=A
+function=HotCue,value=B
+function=HotCue,value=C
+function=HotCue,value=D
+function=Sampler,value=1
+function=Sampler,value=2
+function=Sampler,value=3
+function=Sampler,value=4

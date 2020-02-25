@@ -1,0 +1,11 @@
+@file,1,DDJ-RZ
+Area,,Button,9666,,,,,,,,,,,
+FxPanel,,Button,9678,,,,,,,,,,,Display FX panel (Type1-3) -> OFF -> ...(cyclic)
+KeyShift,,Button,,9064,9164,9264,9364,,9064,9164,9264,9364,Fast;,Beat grid 1/2x
+Memory,,Button,,9065,9165,9265,9365,,9065,9165,9265,9365,,Beat grid 2x
+NoFunction,,Button,,904B,914B,924B,934B,9666,,,,,,Sequencer rec start On
+NoFunction,,Value,,B607,,,,,,,,,,
+NoFunction,,Button,,,,,,,905B,B100,925B,935B,,Sequencer Slot
+NoFunction,,Button,,,,,,,,915B,,,,Sequencer Slot
+SamplerGain,,KnobSlider,B60F,,,,,,,,,,,
+TempoReset,,Button,,905B,915B,925B,935B,,904B,914B,924B,934B,,Sequencer Slot

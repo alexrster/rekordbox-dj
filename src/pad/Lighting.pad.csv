@@ -1,0 +1,16 @@
+function=Lighting,value=COOL
+function=Lighting,value=NATURAL
+function=Lighting,value=HOT
+function=Lighting,value=SUBTLE
+function=Lighting,value=WARM
+function=Lighting,value=VIVID
+function=Lighting,value=CLUB 1
+function=Lighting,value=CLUB 2
+function=Lighting,value=RED
+function=Lighting,value=GREEN
+function=Lighting,value=BLUE
+function=Lighting,value=WHITE
+function=Lighting,value=ALL OFF
+function=Lighting,value=STROBE (FAST)
+function=Lighting,value=STROBE (SLOW)
+function=Lighting,value=STROBE (OFF)

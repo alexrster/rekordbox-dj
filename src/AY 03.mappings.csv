@@ -1,0 +1,17 @@
+@file,1,DDJ-RZ
+Area,,Button,9666,,,,,,,,,,,
+KeyShift,,Button,,9064,9164,9264,9364,,9064,9164,9264,9364,Fast;,Beat grid 1/2x
+Memory,,Button,,9065,9165,9265,9365,,9065,9165,9265,9365,,Beat grid 2x
+NoFunction,,Button,,904B,914B,924B,934B,9666,,,,,,Sequencer rec start On
+NoFunction,,Value,,B607,,,,,,,,,,
+NoFunction,,Button,,,,,,,905B,B100,925B,935B,,Sequencer Slot
+NoFunction,,Button,,,,,,,,915B,,,,Sequencer Slot
+SamplerGain,,KnobSlider,B60F,,,,,,,,,,,
+TempoReset,,Button,,905B,915B,925B,935B,,904B,914B,924B,934B,,Sequencer Slot
+,,,,,,,,,,,,,,
+FX1-1Select.ROLL,ROLL,Button,9463,,,,,,,,,,,FX1-1 - set Roll effect
+FX1-1Select.SPIRAL,SPIRAL,Button,9464,,,,,,,,,,,FX1-1 - set Spiral effect
+FX1-1Select.PITCH,PITCH,Button,9465,,,,,,,,,,,FX1-1 - set Pitch effect
+FX1-1Select.MOBIUSTRI,MOBIUSTRI,Button,9563,,,,,,,,,,,FX1-1 - set Mobius TRI effect
+FX1-1Select.MOBIUSSAW,MOBIUSSAW,Button,9564,,,,,,,,,,,FX1-1 - set Mobius SAW effect
+FX1-1Select.ENIGMAJET,ENIGMAJET,Button,9565,,,,,,,,,,,FX1-1 - set Enigma Jet effect

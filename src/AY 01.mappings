@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="keyMappingName" val="AY 01"/>
+  <VALUE name="keyMappingXml">
+    <KEYMAPPINGS basedOnDefaults="0">
+      <MAPPING commandId="7000" description="Search in the collection" key="ctrl + F"/>
+      <MAPPING commandId="7000" description="Search in the collection" key="ctrl + #430"/>
+      <MAPPING commandId="7003" description="Search in the current list" key="command + F"/>
+      <MAPPING commandId="b04c" description="Show Split Screen" key="&#167;"/>
+      <MAPPING commandId="b04c" description="Show Split Screen" key="#451"/>
+      <MAPPING commandId="e004" description="Assign Sampler" key="option + S"/>
+      <MAPPING commandId="e004" description="Assign Sampler" key="option + #44b"/>
+      <MAPPING commandId="e104" description="Assign Sampler" key="shift + S"/>
+      <MAPPING commandId="e104" description="Assign Sampler" key="shift + #42b"/>
+      <MAPPING commandId="e01d" description="MULTI FX 1/Double the number of beats"
+               key="2"/>
+      <MAPPING commandId="e01e" description="MULTI FX 1/Halve the number of beats"
+               key="1"/>
+      <MAPPING commandId="e01f" description="MULTI FX 2/Double the number of beats"
+               key="4"/>
+      <MAPPING commandId="e020" description="MULTI FX 2/Halve the number of beats"
+               key="3"/>
+      <MAPPING commandId="e021" description="MULTI FX 3/Double the number of beats"
+               key="6"/>
+      <MAPPING commandId="e022" description="MULTI FX 3/Halve the number of beats"
+               key="5"/>
+      <MAPPING commandId="e11d" description="MULTI FX 1/Double the number of beats"
+               key="8"/>
+      <MAPPING commandId="e11e" description="MULTI FX 1/Halve the number of beats"
+               key="7"/>
+      <MAPPING commandId="e11f" description="MULTI FX 2/Double the number of beats"
+               key="0"/>
+      <MAPPING commandId="e120" description="MULTI FX 2/Halve the number of beats"
+               key="9"/>
+      <MAPPING commandId="e121" description="MULTI FX 3/Double the number of beats"
+               key="="/>
+      <MAPPING commandId="e122" description="MULTI FX 3/Halve the number of beats"
+               key="-"/>
+      <MAPPING commandId="34ba" description="Key Sync" key="shift + K"/>
+      <MAPPING commandId="3124" description=" Set Memory Cue" key="P"/>
+      <MAPPING commandId="3124" description=" Set Memory Cue" key="#437"/>
+      <MAPPING commandId="31b8" description="Semitone Down" key="shift + _"/>
+      <MAPPING commandId="31b7" description="Semitone Up" key="shift + ;"/>
+      <MAPPING commandId="31c2" description="Set 1.1 Bars" key="&gt;"/>
+      <MAPPING commandId="3148" description="Make an adjustment on the whole track"
+               key="shift + B"/>
+      <MAPPING commandId="3024" description=" Set Memory Cue" key="T"/>
+      <MAPPING commandId="3024" description=" Set Memory Cue" key="#435"/>
+      <MAPPING commandId="30b7" description="Semitone Up" key="option + ="/>
+      <MAPPING commandId="30b8" description="Semitone Down" key="option + -"/>
+      <MAPPING commandId="30ba" description="Key Sync" key="option + K"/>
+      <MAPPING commandId="30c2" description="Set 1.1 Bars" key="option + ."/>
+      <MAPPING commandId="30c3" description="Undo" key="ctrl + U"/>
+      <MAPPING commandId="30c3" description="Undo" key="ctrl + #433"/>
+      <MAPPING commandId="30c4" description="Redo" key="ctrl + R"/>
+      <MAPPING commandId="30c4" description="Redo" key="ctrl + #43a"/>
+      <MAPPING commandId="31c3" description="Undo" key="shift + U"/>
+      <MAPPING commandId="31c3" description="Undo" key="shift + #413"/>
+      <MAPPING commandId="311d" description="Time Mode" key="shift + T"/>
+      <MAPPING commandId="311d" description="Time Mode" key="shift + #415"/>
+      <MAPPING commandId="301d" description="Time Mode" key="option + T"/>
+      <MAPPING commandId="301d" description="Time Mode" key="option + #435"/>
+      <MAPPING commandId="b04e" description="Full screen" key="command + return"/>
+      <MAPPING commandId="b04d" description="Toggle the layout (decks and browse screen)"
+               key="spacebar"/>
+      <MAPPING commandId="e006" description="Single/Multi" key="option + F"/>
+      <MAPPING commandId="e006" description="Single/Multi" key="option + #430"/>
+      <MAPPING commandId="e106" description="Single/Multi" key="shift + F"/>
+      <MAPPING commandId="e106" description="Single/Multi" key="shift + #410"/>
+      <MAPPING commandId="303b" description="Delete Memory Cue" key="shift + option + T"/>
+      <MAPPING commandId="303b" description="Delete Memory Cue" key="shift + option + #415"/>
+      <MAPPING commandId="313b" description="Delete Memory Cue" key="shift + option + P"/>
+      <MAPPING commandId="313b" description="Delete Memory Cue" key="shift + option + #417"/>
+      <MAPPING commandId="d0f0" description="Start/Pause REC" key="option + return"/>
+      <MAPPING commandId="400b" description="Remove from Collection" key="backspace"/>
+      <MAPPING commandId="400b" description="Remove from Collection" key="delete"/>
+      <MAPPING commandId="3224" description=" Set Memory Cue" key="command + T"/>
+      <MAPPING commandId="b102" description="&quot;Related tracks&quot; on Subpanel"
+               key="return"/>
+      <MAPPING commandId="b103" description="Information Window" key="F12"/>
+      <MAPPING commandId="b136" description="Automix" key="option + A"/>
+      <MAPPING commandId="b136" description="Automix" key="option + #444"/>
+      <MAPPING commandId="b04a" description="Show / Hide Pad and Platter" key="F6"/>
+      <MAPPING commandId="b04f" description="Show/Hide Sampler panel" key="F3"/>
+      <MAPPING commandId="b020" description="Show/Hide FX panel" key="F5"/>
+      <MAPPING commandId="b109" description="Show/Hide My Tag filter" key="F1"/>
+      <MAPPING commandId="b108" description="Show/Hide Category Filter" key="ctrl + F1"/>
+      <MAPPING commandId="313f" description="Show Memory Cue Panel" key="shift + #42c"/>
+      <MAPPING commandId="313f" description="Show Memory Cue Panel" key="shift + M"/>
+      <MAPPING commandId="31af" description="Show GRID Panel" key="shift + G"/>
+      <MAPPING commandId="31af" description="Show GRID Panel" key="shift + #41f"/>
+      <MAPPING commandId="30af" description="Show GRID Panel" key="option + #43f"/>
+      <MAPPING commandId="30af" description="Show GRID Panel" key="option + G"/>
+      <MAPPING commandId="303f" description="Show Memory Cue Panel" key="option + M"/>
+      <MAPPING commandId="303f" description="Show Memory Cue Panel" key="option + #44c"/>
+      <MAPPING commandId="b101" description="My Tag Configuration Window" key="option + F1"/>
+      <MAPPING commandId="30b0" description="Switch to [ABS]" key="command + F1"/>
+      <MAPPING commandId="30b1" description="Switch to [REL]" key="command + F2"/>
+      <MAPPING commandId="30b2" description="Switch to [INT]" key="command + F3"/>
+      <MAPPING commandId="30b3" description="Switch to [THR]" key="command + F4"/>
+      <MAPPING commandId="3007" description="Cue" key="option + C"/>
+      <MAPPING commandId="300a" description="Loop In" key="I"/>
+      <MAPPING commandId="3006" description="Play/Pause" key="command + C"/>
+      <MAPPING commandId="304e" description="Tempo Reset" key="option + R"/>
+      <MAPPING commandId="304e" description="Tempo Reset" key="option + #43a"/>
+      <MAPPING commandId="314e" description="Tempo Reset" key="shift + R"/>
+      <MAPPING commandId="314e" description="Tempo Reset" key="shift + #41a"/>
+      <MAPPING commandId="e005" description="Assign Master" key="option + D"/>
+      <MAPPING commandId="e005" description="Assign Master" key="option + #432"/>
+      <MAPPING commandId="e105" description="Assign Master" key="shift + D"/>
+      <MAPPING commandId="e105" description="Assign Master" key="shift + #412"/>
+      <MAPPING commandId="400c" description="Show information" key="F4"/>
+    </KEYMAPPINGS>
+  </VALUE>
+</PROPERTIES>

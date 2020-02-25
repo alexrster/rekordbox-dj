@@ -1,0 +1,16 @@
+function=HotCue,value=A
+function=HotCue,value=B
+function=HotCue,value=C
+function=HotCue,value=D
+function=Sampler,value=1
+function=Sampler,value=2
+function=Sampler,value=3
+function=Sampler,value=4
+function=UserBeatJump,value=-16
+function=UserBeatJump,value=+16
+function=UserBeatJump,value=-4
+function=UserBeatJump,value=+4
+function=BeatLoop,value=1
+function=BeatLoop,value=4
+function=BeatLoop,value=8
+function=BeatLoop,value=16

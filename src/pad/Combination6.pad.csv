@@ -1,0 +1,16 @@
+function=UserBeatJump,value=-4
+function=UserBeatJump,value=+4
+function=Sampler,value=1
+function=Sampler,value=2
+function=BeatLoop,value=4
+function=BeatLoop,value=8
+function=UserKeyShift,value=KEY SYNC
+function=UserKeyShift,value=KEY RESET
+function=PadFxCombination,value=5
+function=PadFxCombination,value=6
+function=PadFxCombination,value=7
+function=PadFxCombination,value=8
+function=HotCue,value=A
+function=HotCue,value=B
+function=HotCue,value=C
+function=HotCue,value=D

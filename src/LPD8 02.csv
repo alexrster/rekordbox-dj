@@ -1,0 +1,11 @@
+@file,1,LPD8
+FX1-1,,KnobSlider,B001,,,,,,,,,,,
+FX1-1On,,Button,8028,,,,,9028,,,,,,
+FX1-2,,KnobSlider,B002,,,,,,,,,,,
+FX1-2On,,Button,8029,,,,,9029,,,,,,
+FX1-3,,KnobSlider,B003,,,,,,,,,,,
+FX1-3On,,Button,802A,,,,,902A,,,,,,
+FX1FXMode,,Button,802B,,,,,902B,,,,,,
+NoFunction,,Button,9028,,,,,8028,,,,,,
+NoFunction,,Button,9029,,,,,802A,,,,,,
+NoFunction,,Button,902A,,,,,8029,,,,,,

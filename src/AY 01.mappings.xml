@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="keyMappingName" val="AY 01"/>
+  <VALUE name="keyMappingXml">
+    <KEYMAPPINGS basedOnDefaults="0">
+      <MAPPING commandId="7000" description="Search in the collection" key="ctrl + F"/>
+      <MAPPING commandId="7003" description="Search in the current list" key="command + F"/>
+      <MAPPING commandId="b04c" description="Show Split Screen" key="&#96;"/>
+      <MAPPING commandId="e004" description="Assign Sampler" key="option + S"/>
+      <MAPPING commandId="e104" description="Assign Sampler" key="shift + S"/>
+      <MAPPING commandId="e01d" description="MULTI FX 1/Double the number of beats"
+               key="option + 1"/>
+      <MAPPING commandId="e01e" description="MULTI FX 1/Halve the number of beats"
+               key="shift + 1"/>
+      <MAPPING commandId="e01f" description="MULTI FX 2/Double the number of beats"
+               key="option + 2"/>
+      <MAPPING commandId="e020" description="MULTI FX 2/Halve the number of beats"
+               key="shift + @"/>
+      <MAPPING commandId="e021" description="MULTI FX 3/Double the number of beats"
+               key="option + 3"/>
+      <MAPPING commandId="e022" description="MULTI FX 3/Halve the number of beats"
+               key="shift + 3"/>
+      <MAPPING commandId="e11d" description="MULTI FX 1/Double the number of beats"
+               key="option + 4"/>
+      <MAPPING commandId="e11e" description="MULTI FX 1/Halve the number of beats"
+               key="shift + 4"/>
+      <MAPPING commandId="e11f" description="MULTI FX 2/Double the number of beats"
+               key="option + 5"/>
+      <MAPPING commandId="e120" description="MULTI FX 2/Halve the number of beats"
+               key="shift + 5"/>
+      <MAPPING commandId="e121" description="MULTI FX 3/Double the number of beats"
+               key="option + 6"/>
+      <MAPPING commandId="e122" description="MULTI FX 3/Halve the number of beats"
+               key="6"/>
+    </KEYMAPPINGS>
+  </VALUE>
+</PROPERTIES>

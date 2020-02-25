@@ -1,0 +1,16 @@
+function=HotCue,value=A
+function=HotCue,value=B
+function=HotCue,value=C
+function=HotCue,value=D
+function=HotCue,value=E
+function=HotCue,value=F
+function=HotCue,value=G
+function=HotCue,value=H
+function=Sampler,value=1
+function=Sampler,value=2
+function=Sampler,value=3
+function=Sampler,value=4
+function=PadFxCombination,value=1
+function=PadFxCombination,value=2
+function=PadFxCombination,value=3
+function=PadFxCombination,value=4

@@ -1,0 +1,33 @@
+function=,type=separator,mode=off,template=off,pad=off,text=[PRESET MODE],select=
+function=HotCue,type=preset,mode=on,template=on,pad=on,text=HOT CUE,select=1
+function=PadFx1,type=preset,mode=on,template=on,pad=on,text=PAD FX1,select=2
+function=BeatJump,type=preset,mode=on,template=on,pad=on,text=BEAT JUMP,select=3
+function=UserBeatJump,type=preset,mode=off,template=off,pad=on,text=BEAT JUMP,select=
+function=Sampler,type=preset,mode=on,template=on,pad=on,text=SAMPLER,select=4
+function=Keyboard,type=preset,mode=on,template=off,pad=off,text=KEYBOARD,select=5
+function=KeyShift,type=preset,mode=on,template=on,pad=off,text=KEY SHIFT,select=8
+function=UserKeyShift,type=preset,mode=off,template=off,pad=on,text=KEY SHIFT,select=
+function=BeatLoop,type=preset,mode=on,template=on,pad=on,text=BEAT LOOP,select=7
+function=PadFx2,type=preset,mode=on,template=on,pad=on,text=PAD FX2,select=6
+function=Slicers,type=preset,mode=on,template=off,pad=off,text=SLICER,select=
+function=ActiveCensor,type=preset,mode=on,template=on,pad=on,text=A.CENSOR,select=
+function=SequenceCall,type=preset,mode=on,template=on,pad=on,text=SEQUENCE CALL,select=
+function=PadFxCombination,type=preset,mode=off,template=off,pad=off,text=PAD FX Combination,select=
+function=Lighting,type=preset,mode=off,template=on,pad=on,text=LIGHTING,select=
+function=,type=separator,mode=off,template=off,pad=off,text=,select=
+function=User1,type=user,mode=on,template=on,pad=off,text=USER 1,select=
+function=User2,type=user,mode=on,template=on,pad=off,text=USER 2,select=
+function=User3,type=user,mode=on,template=on,pad=off,text=USER 3,select=
+function=User4,type=user,mode=on,template=on,pad=off,text=USER 4,select=
+function=User5,type=user,mode=on,template=on,pad=off,text=USER 5,select=
+function=User6,type=user,mode=on,template=on,pad=off,text=USER 6,select=
+function=User7,type=user,mode=on,template=on,pad=off,text=USER 7,select=
+function=User8,type=user,mode=on,template=on,pad=off,text=USER 8,select=
+function=Combination1,type=combination,mode=off,template=on,pad=off,text=Combination 1,select=
+function=Combination2,type=combination,mode=off,template=on,pad=off,text=Combination 2,select=
+function=Combination3,type=combination,mode=off,template=on,pad=off,text=Combination 3,select=
+function=Combination4,type=combination,mode=off,template=on,pad=off,text=Combination 4,select=
+function=Combination5,type=combination,mode=off,template=on,pad=off,text=Combination 5,select=
+function=Combination6,type=combination,mode=off,template=on,pad=off,text=Combination 6,select=
+function=Combination7,type=combination,mode=off,template=on,pad=off,text=Combination 7,select=
+function=Combination8,type=combination,mode=off,template=on,pad=off,text=Combination 8,select=

@@ -1,0 +1,27 @@
+@file,1,DDJ-RZ
+Area,,Button,9666,,,,,,,,,,,
+KeyShift,,Button,,9064,9164,9264,9364,,9064,9164,9264,9364,Fast;,Beat grid 1/2x
+KeySync,,Button,,904A,914A,924A,934A,,904A,914A,924A,934A,,
+Memory,,Button,,9065,9165,9265,9365,,9065,9165,9265,9365,,Beat grid 2x
+NoFunction,,Button,,904B,914B,924B,934B,9666,,,,,,Sequencer rec start On
+NoFunction,,Value,,B607,,,,,,,,,,
+NoFunction,,Button,,,,,,,905B,B100,925B,935B,,Sequencer Slot
+NoFunction,,Button,,,,,,,,915B,,,,Sequencer Slot
+SamplerGain,,KnobSlider,B60F,,,,,,,,,,,
+TempoReset,,Button,,905B,915B,925B,935B,,904B,914B,924B,934B,,Sequencer Slot
+CFXSubParameter,CFXSubParameter,KnobSliderHiRes,B61C,,,,,,,,,,Fast,CFX sub parameter
+,,,,,,,,,,,,,,
+#NeedleSearch,NeedleSearch,Value,B003,0,1,2,3,,,,,,Max=16383;Dual,Needle Search slide(00-7f)
+#SFX1-Touch,,Button,9447,,,,,,,,,,Fast,
+#SFX1-Touch,,Value,B003,0,1,2,3,,,,,,Fast;Max=16383;Dual,Needle Search slide(00-7f)
+,,,,,,,,,,,,,,
+#FX1-1Select,FX1-1Select,Rotary,B400,,,,,,,,,,,FX1-1 Select
+#FX1-2Select,FX1-2Select,Rotary,B410,,,,,,,,,,,FX1-2 Select
+#FX2-3Select,FX2-3Select,KnobSliderHiRes,B516,,,,,,,,,,,FX2-3 Select
+,,,,,,,,,,,,,,
+FX1-1Select,FX1-1Select,KnobSliderHiRes,B412,,,,,,,,,,,FX1-1 Select+Shift
+FX1-2Select,FX1-2Select,KnobSliderHiRes,B414,,,,,,,,,,,FX1-2 Select+Shift
+FX1-3Select,FX1-3Select,KnobSliderHiRes,B416,,,,,,,,,,,FX1-3 Select+Shift
+FX2-1Select,FX2-1Select,KnobSliderHiRes,B512,,,,,,,,,,,FX2-1 Select+Shift
+FX2-2Select,FX2-2Select,KnobSliderHiRes,B514,,,,,,,,,,,FX2-2 Select+Shift
+FX2-3Select,FX2-3Select,KnobSliderHiRes,B516,,,,,,,,,,,FX2-3 Select+Shift
